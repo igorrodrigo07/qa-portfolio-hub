@@ -1,7 +1,7 @@
 # 👨‍💻 QA Portfolio - Igor Rodrigo
 
 ## 🚀 Sobre mim
-Profissional em transição para QA, com foco em testes manuais, automação e evolução contínua em qualidade de software.
+Profissional em transição para Quality Assurance (QA), com experiência prática em testes manuais, automação e validação de comportamento de aplicações Web e Mobile.
 
 ---
 
@@ -28,20 +28,26 @@ Profissional em transição para QA, com foco em testes manuais, automação e e
 
 ---
 
-## 🧠 QA Portfolio
+### 🧠 QA Portfolio
 - Este repositório reúne meus projetos e estudos em Quality Assurance (QA), incluindo conteúdos organizados sobre ISTQB Foundation Level.
 🔗 GitHub: https://github.com/igorrodrigo07/QA-Portfolio
 
-## 🛠️ Testes Severest APIs
+---
+
+### 🔌 Testes ServeRest APIs
 - Postman
 - JavaScript (scripts no Postman)
 - ServeRest API
 🔗 GitHub: https://github.com/igorrodrigo07/serverest-api-tests
 
-## 🔌Projeto-junit
-- Projeto de automação com JUnit e integração de CI/CD usando GitHub Actions para execução automática dos testes. Atualizando pipeline CI/CD Final corrigido.
+---
+
+### ⚙️ Automação com JUnit (CI/CD)
+- Projeto de automação com JUnit integrado a CI/CD utilizando GitHub Actions para execução automatizada dos testes.
 🔗 GitHub: https://github.com/igorrodrigo07/projeto-junit
 
-## 📬 Contato
+---
+
+### 📬 Contato
 LinkedIn: https://www.linkedin.com/in/igor-rodrigo-82066a136/
-LinkedIn Posts: https://www.linkedin.com/in/igor-rodrigo-82066a136/details/featured/
+LinkedIn Posts: [Visualizar projeto](https://www.linkedin.com/in/igor-rodrigo-82066a136/details/featured/)
