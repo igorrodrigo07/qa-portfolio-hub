@@ -48,6 +48,40 @@ Profissional em transição para Quality Assurance (QA), com experiência práti
 
 ---
 
+## 📊 QA Bug Analyzer
+
+Projeto desenvolvido em Python para automatizar a análise de bugs de software a partir de um arquivo CSV.
+
+### Tecnologias Utilizadas
+
+* Python
+* Pandas
+* Matplotlib
+* Git
+* GitHub
+
+### Funcionalidades
+
+* Leitura automática de bugs em CSV
+* Agrupamento por severidade
+* Agrupamento por status
+* Cálculo da taxa de resolução
+* Análise por sprint
+* Geração automática de relatório TXT
+* Geração automática de gráficos PNG
+
+### Principais Aprendizados
+
+* Manipulação de dados com Pandas
+* Automação de relatórios
+* Visualização de dados com Matplotlib
+* Organização de projetos Python
+
+🔗 Repositório:
+https://github.com/igorrodrigo07/qa-bug-analyzer
+
+---
+
 ### 📬 Contato
 LinkedIn: https://www.linkedin.com/in/igor-rodrigo-82066a136/
 LinkedIn Posts: [Visualizar projeto](https://www.linkedin.com/in/igor-rodrigo-82066a136/details/featured/)
