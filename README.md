@@ -82,6 +82,39 @@ https://github.com/igorrodrigo07/qa-bug-analyzer
 
 ---
 
+## 🗄️ QA SQL Analytics
+
+Projeto desenvolvido para análise de métricas de qualidade de software utilizando SQL, SQLite e Python.
+
+### Tecnologias Utilizadas
+
+* SQL
+* SQLite
+* Python
+* Matplotlib
+* Git/GitHub
+
+### Funcionalidades
+
+* Criação automática de banco de dados
+* Consultas SQL para análise de bugs
+* Taxa de resolução de defeitos
+* Métricas por sprint
+* Métricas por severidade
+* Identificação dos módulos com mais defeitos
+* Geração automática de relatórios
+* Geração automática de gráficos
+
+### Principais Aprendizados
+
+* SQL aplicado a QA
+* Manipulação de banco SQLite
+* Integração entre Python e SQL
+* Visualização de dados
+
+🔗 Repositório:
+https://github.com/igorrodrigo07/qa-sql-analytics
+
 ### 📬 Contato
 LinkedIn: https://www.linkedin.com/in/igor-rodrigo-82066a136/
 LinkedIn Posts: [Visualizar projeto](https://www.linkedin.com/in/igor-rodrigo-82066a136/details/featured/)
